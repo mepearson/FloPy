@@ -1,8 +1,11 @@
-name: llm
+name: flopy
 channels:
   - conda-forge
 dependencies:
+  - jupyterlab
+  - plotly
   - ipywidgets
   - ipykernel
-  - jupyterlab
+  - pandas
+  - matplotlib
   - flopy
