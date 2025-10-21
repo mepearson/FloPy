@@ -1,7 +1,7 @@
 {
-  "id": "cookbook-jupyter-template-cpu",
-  "version": "0.0.2",
-  "description": "Jupyter Lab environment for CPU",
+  "id": "flopy-cpu",
+  "version": "0.0.1",
+  "description": "FloPY Jupyter Lab environment for CPU",
   "owner": "${apiUserId}",
   "enabled": true,
   "runtime": "SINGULARITY",
@@ -141,7 +141,7 @@
   },
   "tags": ["portalName: ALL"],
   "notes": {
-    "label": "Cookbook - Jupyter Lab (CPU)",
+    "label": "FloPy Jupyter Lab (CPU)",
     "hideNodeCountAndCoresPerNode": true,
     "isInteractive": true,
     "icon": "jupyter",
