@@ -9,3 +9,5 @@ dependencies:
   - pandas
   - matplotlib
   - flopy
+  - gitpython
+  - pooch
