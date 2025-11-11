@@ -1,5 +1,5 @@
 {
-  "id": "flopy-jupyter-template-gpu",
+  "id": "flopy-jupyter-gpu",
   "version": "0.0.2",
   "description": "Jupyter Lab environment for GPU, Flopy",
   "owner": "${apiUserId}",
@@ -7,7 +7,7 @@
   "runtime": "SINGULARITY",
   "runtimeVersion": null,
   "runtimeOptions": ["SINGULARITY_RUN"],
-  "containerImage": "docker://ghcr.io/in-for-disaster-analytics/cookbook-jupyter-template-gpu:0.0.2",
+  "containerImage": "docker://ghcr.io/in-for-disaster-analytics/test-docker-push",
   "jobType": "BATCH",
   "maxJobs": -1,
   "maxJobsPerUser": -1,
