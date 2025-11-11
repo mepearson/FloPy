@@ -1,7 +1,7 @@
 {
-  "id": "cookbook-jupyter-template-gpu",
+  "id": "flopy-jupyter-template-gpu",
   "version": "0.0.2",
-  "description": "Jupyter Lab environment for GPU",
+  "description": "Jupyter Lab environment for GPU, Flopy",
   "owner": "${apiUserId}",
   "enabled": true,
   "runtime": "SINGULARITY",
